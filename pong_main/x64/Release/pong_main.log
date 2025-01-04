@@ -1,0 +1,7 @@
+﻿  main.cpp
+  menu.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 170 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  pong_main.vcxproj -> C:\Users\pc\source\repos\pong_main\x64\Release\pong_main.exe
